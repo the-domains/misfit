@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0
+  lightness: 0.492117
+  rhythmicContrast: 0.932432
+  saturation: 0.688063
+cta: {}
+layout_spectrum: 0.823198
+name: misfit
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.109234
