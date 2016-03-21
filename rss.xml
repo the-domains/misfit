@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[misfit]]></title>
-        <description><![CDATA[misfit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Balaro dienoraštis]]></title>
+        <description><![CDATA[Balaro dienoraštis]]></description>
+        <link>https://thegrid.ai/misfit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 13:11:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 13:36:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/misfit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Po ilgų klajonių Blogažemyje atvykau į Grybų
@@ -13,9 +13,9 @@ rato kaimą. Dar niekada nebuvau taip arti pietinės upės, kuri nelyg siena
 dalino Brevijos karalystės gyventojų pasaulį. Upės šiaurė, nors ir pavojinga
 bei valdoma plėšikų, vis tik yra pažįstama ir suvokiama. Tačiau istorijų iš
 anapus vandens šaltinio nėra daug – grįžtančių iš ten nėra daug.</p>]]></description>
-            <link>undefinedpo-ilgu-klajoniu-blogazemyje-atvykau-i-grybu-rato-kaima-dar/index.html</link>
+            <link>https://thegrid.ai/misfit/po-ilgu-klajoniu-blogazemyje-atvykau-i-grybu-rato-kaima-dar/index.html</link>
             <guid isPermaLink="false">87692ad4-65d1-4d09-b0af-464a5cb524ea</guid>
-            <pubDate>Mon, 21 Mar 2016 13:11:12 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 13:36:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
