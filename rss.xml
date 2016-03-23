@@ -4,18 +4,18 @@
         <description><![CDATA[Balaro dienoraštis]]></description>
         <link>https://thegrid.ai/misfit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 14:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 14:13:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/misfit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Po ilgų klajonių Blogažemyje atvykau į Grybų
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>Po ilgų klajonių Blogažemyje atvykau į Grybų
 rato kaimą. Dar niekada nebuvau taip arti pietinės upės, kuri nelyg siena
 dalino Brevijos karalystės gyventojų pasaulį. Upės šiaurė, nors ir pavojinga
 bei valdoma plėšikų, vis tik yra pažįstama ir suvokiama. Tačiau istorijų iš
-anapus vandens šaltinio nėra daug – grįžtančių iš ten nėra daug.</p>]]></description>
+anapus vandens šaltinio nėra daug – grįžtančių iš ten nėra daug.</p></article>]]></description>
             <link>https://thegrid.ai/misfit/po-ilgu-klajoniu-blogazemyje-atvykau-i-grybu-rato-kaima-dar/index.html</link>
             <guid isPermaLink="false">87692ad4-65d1-4d09-b0af-464a5cb524ea</guid>
-            <pubDate>Wed, 23 Mar 2016 14:12:23 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 14:13:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
